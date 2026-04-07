@@ -1,11 +1,3 @@
-# Senior Analytics Consultant (AI-First) — Trial Project
-
-**Duration**: 5 hours paid
-**Format**: Take-home, submitted via GitHub repository
-**Compensation**: Paid at your stated day rate pro-rata, invoiced after submission
-
----
-
 ## Overview
 
 This trial project is the practical stage of our hiring process for the Senior Analytics Consultant (AI-First) role. It is designed to reflect real work: a bounded delivery task where you have access to your full toolkit, including whatever AI tools you use in your normal workflow, and are expected to use them.
