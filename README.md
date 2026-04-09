@@ -1,6 +1,6 @@
 ## Overview
 
-This trial project is the practical stage of our hiring process for the Senior Analytics Consultant (AI-First) role. It is designed to reflect real work: a bounded delivery task where you have access to your full toolkit, including whatever AI tools you use in your normal workflow, and are expected to use them.
+This trial project is the practical stage of our hiring process for the Senior Analytics Consultant role. It is designed to reflect real work: a bounded delivery task where you have access to your full toolkit, including whatever AI tools you use in your normal workflow, and are expected to use them.
 
 ## What are trial projects?
 
